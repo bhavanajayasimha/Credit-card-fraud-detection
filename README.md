@@ -1,13 +1,11 @@
 # Credit Card Fraud Detection
 
 KHUSHI P KATWE (R23EQ053)
-
 ASFAREEN PARVEEZ (R23EQ009)
-
 HEMANTH L (R23EQ042)
 
 This project predicts whether a credit card transaction is fraudulent or genuine using machine learning. It includes data preprocessing, model training, evaluation, and explainability.
-
+DEMO-https://credit-card-fraud-detection-d2fwjs6hq9tcrvuxshgn82.streamlit.app/
 ### Files
 - `fraud.py` – Basic ML model  
 - `fraud_advanced.py` – Improved model with SMOTE  
